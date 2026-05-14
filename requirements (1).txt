@@ -1,0 +1,11 @@
+nltk
+wordcloud
+matplotlib
+PyPDF2
+textract
+spacy
+numpy
+pillow
+pandas
+beautifulsoup4
+pdfminer-six
